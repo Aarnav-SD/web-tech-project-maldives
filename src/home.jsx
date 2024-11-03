@@ -18,13 +18,13 @@ const Home = () => {
             <div className='bg-image'>
               <div className='tasks'>
                 <p className='egypt'>MALDIVES</p>
-                <div className='other-tabs'><p onClick={() => navigate('/culture')} className='Home-tab'>Culture</p><p onClick={() => navigate('/explore')} className='poi-tab'>Explore</p></div>
+                <div className='other-tabs'><p onClick={() => navigate('/web-tech-project-maldives/culture')} className='Home-tab'>Culture</p><p onClick={() => navigate('/web-tech-project-maldives/explore')} className='poi-tab'>Explore</p></div>
               </div>
             </div>
             <div className='Explore'>
               <div className='stuff'>
                 <p className='E'>Let's Explore Maldives!</p>
-                <button onClick={() => navigate('/explore')} className='explore'>Explore</button>
+                <button onClick={() => navigate('/web-tech-project-maldives/explore')} className='explore'>Explore</button>
               </div>
             </div>
           </div>

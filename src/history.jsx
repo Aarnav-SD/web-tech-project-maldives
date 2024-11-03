@@ -56,7 +56,7 @@ const Culture = () => {
                         Although it draws many influences from cultures around the world, Maldives has assimilated them to create something of its own, something all Maldivians are proud of. What better way to experience this beautiful culture of Maldives than to come here and experience it first hand!
                     </p>
                 </div>
-                <button onClick={() => navigate('/')} className="back-button">&larr;</button>
+                <button onClick={() => navigate('/web-tech-project-maldives/')} className="back-button">&larr;</button>
             </div>
         </>
     )

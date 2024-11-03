@@ -26,7 +26,7 @@
     right: 0;
     overflow-y: auto;
     background-image: url('https://plus.unsplash.com/premium_photo-1666432045848-3fdbb2c74531?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
-    background-size: 1495.200px 712px;
+    background-size: 100vw 100vh;
     animation: backgroundImage 20s infinite;
     width: 100vw;
     height: 100vh;

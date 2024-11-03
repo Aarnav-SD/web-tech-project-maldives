@@ -104,7 +104,7 @@ const Explore = () => {
                         <img className="images" src="https://res.cloudinary.com/zublu/image/fetch/f_webp,w_1200,q_auto/https://www.zubludiving.com/images/Maldives/Addu-Atoll/Maldives-Addu-Scuba-Diving-6.jpg" />
                     </div>
                 </div>
-                <button onClick={() => navigate('/')} className="back-button">&larr;</button>
+                <button onClick={() => navigate('/web-tech-project-maldives/')} className="back-button">&larr;</button>
             </div>
         </>
     );
